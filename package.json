@@ -11,8 +11,6 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "node-ssdp": "^2.7.2",
-    "oauth": "~0.9.14",
-    "q": "~1.4.1"
+    "node-ssdp": "^2.7.2"
   }
 }
