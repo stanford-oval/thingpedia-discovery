@@ -1,8 +1,9 @@
 {
   "name": "thingpedia-discovery",
   "version": "1.0.0",
-  "description": "Device discovery support for ThingPedia (client and server side)",
-  "author": "Stanford Mobisocial lab",
+  "description": "Device discovery support for Thingpedia (client and server side)",
+  "author": "Stanford University Mobile and Social Computing Lab",
+  "license": "GPL-3.0+",
   "contributors": [
     {
       "name": "Giovanni Campagna",
@@ -12,5 +13,11 @@
   "main": "index.js",
   "dependencies": {
     "node-ssdp": "^2.7.2"
+  },
+  "scripts": {
+    "lint": "eslint ./lib"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
   }
 }
