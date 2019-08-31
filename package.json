@@ -1,6 +1,6 @@
 {
   "name": "thingpedia-discovery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Device discovery support for Thingpedia (client and server side)",
   "author": "Stanford University Mobile and Social Computing Lab",
   "license": "GPL-3.0+",
