@@ -12,7 +12,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "node-ssdp": "^2.7.2"
+    "node-ssdp": "^4.0.0"
   },
   "scripts": {
     "lint": "eslint ./lib"
